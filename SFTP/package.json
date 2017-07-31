@@ -1,0 +1,30 @@
+{
+  "name": "bldtsk-sftp",
+  "version": "1.0.0",
+  "description": "Transfers files over SFTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delta-N/BldTsk-SFTP.git"
+  },
+  "keywords": [
+    "sftp",
+    "ftp"
+  ],
+  "author": "Delta-N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Delta-N/BldTsk-SFTP/issues"
+  },
+  "homepage": "https://github.com/Delta-N/BldTsk-SFTP#readme",
+  "dependencies": {
+    "vsts-task-lib": "^2.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.17",
+    "@types/q": "^1.0.3"
+  }
+}
